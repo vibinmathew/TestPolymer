@@ -1,0 +1,6 @@
+{
+  "name": "Test-element",
+  "short_name": "Test-element",
+  "start_url": "/",
+  "display": "standalone"
+}
